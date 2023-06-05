@@ -380,7 +380,7 @@ MonoBehaviour:
   m_LastFolders:
   - Packages/com.unity.learn.iet-framework.authoring
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\elbad\TFG
+  m_LastProjectPath: C:\Users\elbad\OneDrive\Documentos\GitHub\VR-Z
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
